@@ -1,1 +1,1 @@
-# Solution for Programทing.in.th
+# Solution for programming.in.th
