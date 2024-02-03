@@ -4,14 +4,15 @@ mattrix_a = []
 mattrix_b = []
 
 for i in range(m):
-    r = list(map(int,input().split()))
+    r = list(map(int,input()))
     mattrix_a.append(r)
 
 for i in range(m):
-    r = list(map(int,input().split()))
+    r = list(map(int,input()))
     mattrix_b.append(r)
 
 mattrixl_result = []
+
 for i in range(m):
     row = []
     for j in range(n):
