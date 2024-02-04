@@ -1,14 +1,14 @@
-m , n = map(int,input().split())
+m, n = map(int,input().split(" "))
 
 mattrix_a = []
 mattrix_b = []
 
 for i in range(m):
-    r = list(map(int,input()))
+    r = list(map(int,input().split()))
     mattrix_a.append(r)
 
 for i in range(m):
-    r = list(map(int,input()))
+    r = list(map(int,input().split()))
     mattrix_b.append(r)
 
 mattrixl_result = []
